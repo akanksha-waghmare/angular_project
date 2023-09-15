@@ -24,7 +24,7 @@ spec:
       containers:
         - name: nginx
 
-          image: anandasaisoorisetty/webappanand:ANAND-PROJECT-buildNumber
+          image: akankshawaghmare/angular_project:AKANKSHA-PROJECT-17
 
           ports:
             - containerPort: 80
